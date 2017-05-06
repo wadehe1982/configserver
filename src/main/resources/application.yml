@@ -8,4 +8,4 @@ spring:
           
 server:
   context-path: /configserver
-  port: 8888
+  port: 9999
